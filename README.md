@@ -83,4 +83,3 @@ Thank you for using PG LIFE!
 
 ---
 
-This formatting should look structured and clean on GitHub. You can copy and paste it directly into your `README.md` file. Let me know if there’s anything else I can help with!
